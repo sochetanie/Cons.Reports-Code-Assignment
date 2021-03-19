@@ -1,7 +1,7 @@
 # About
 
   Front End - React with react-bootstrap
-  Back End - Node.js & Express
+  Back End - Node.js & Express (instead of Java, Python or PHP)
   Database - MySQL
 
 # Getting Started
@@ -12,7 +12,7 @@
 # Instructions
 
 Programming Language:  
-Server side code could be any programming language like Java, python or PHP and javascript/HTML/CSS should be used on the client. Classic modern ES6 Javascript with a framework like react/vue is fine but jQuery is not accepted. 
+Server side code could be any programming language like Java, Python or PHP and javascript/HTML/CSS should be used on the client. Classic modern ES6 Javascript with a framework like react/vue is fine but jQuery is not accepted. 
 
 Backend db could be SQL based like mysql or noSQL based like mongodb. In memory data stores like redis could also be utilized. Basic file storage is not preferred.
 
